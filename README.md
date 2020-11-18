@@ -1,5 +1,7 @@
 # gdg-kafka-cloud-integration
 
+### [slide](https://www2.slideshare.net/RICHLEE11/gdg-taipei-2020-cloud-and-onpremises-applications-integration-using-eventdriven)
+
 ### Pre-requisites
 - [Install the Cloud SDK](https://cloud.google.com/sdk/docs/quickstart)
 - [Cloud PubSub Connector](https://github.com/GoogleCloudPlatform/pubsub/tree/master/kafka-connector)
