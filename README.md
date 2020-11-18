@@ -1,4 +1,4 @@
-# GDG Taipei 20202 - Cloud Integration with Kafka
+# GDG Taipei 2020 - Cloud Integration with Kafka
 
 ### [slide](https://www2.slideshare.net/RICHLEE11/gdg-taipei-2020-cloud-and-onpremises-applications-integration-using-eventdriven)
 
