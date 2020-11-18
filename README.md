@@ -20,6 +20,7 @@ export GOOGLE_APPLICATION_CREDENTIALS=/Users/rich/tools/kafka_2.13-2.4.0/app-pro
 ```bash
 ./bin/connect-distributed.sh config/connect-distributed.properties
 
+```
 ---
 
 ### Cloud PubSub Connector
